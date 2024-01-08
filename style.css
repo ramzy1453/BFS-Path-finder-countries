@@ -1,0 +1,15 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  border: 1px solid black;
+}
+path {
+  fill: lightgray;
+  stroke: white;
+}
+path:hover {
+  fill: gray;
+}
